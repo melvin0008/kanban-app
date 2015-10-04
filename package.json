@@ -1,0 +1,24 @@
+{
+  "name": "kanban_app",
+  "version": "1.0.0",
+  "description": "learning webpack and flux with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melvin0008/kanban.git"
+  },
+  "author": "Melvin Philips <me@melvinphilips.com> (http://melvinphilips.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melvin0008/kanban/issues"
+  },
+  "homepage": "https://github.com/melvin0008/kanban#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^1.6.1",
+    "node-libs-browser": "^0.5.3",
+    "webpack": "^1.12.2"
+  }
+}
