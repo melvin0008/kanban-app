@@ -1,3 +1,5 @@
-# redux-playground
+# Kanban App
 
-Learning redux and playing around with the redux environment
+Playing with webpack, react and hot loading
+
+
